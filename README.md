@@ -1,3 +1,21 @@
+cybersecurity-portfolio/
+├── README.md
+├── Projects/
+│   ├── Project1/
+│   ├── Project2/
+│   └── Project3/
+├── Writeups/
+│   ├── CTF1/
+│   ├── CTF2/
+│   └── BlogPosts/
+├── Tools/
+│   ├── Tool1/
+│   └── Tool2/
+└── Certifications/
+
+
+
+
 # Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio! I’m [Your Name], a passionate cybersecurity researcher with expertise in threat intelligence, vulnerability management, and digital forensics. This portfolio showcases my projects, tools, and contributions to the field.
