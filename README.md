@@ -1,6 +1,5 @@
 # Hi 👋, I'm MD Hasibur Rahman
 
-💻 A passionate learner from Bangladesh
 
 ---
 
